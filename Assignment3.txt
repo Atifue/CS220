@@ -1,0 +1,67 @@
+C:\Users\15167\AppData\Local\Programs\Python\Python312\python.exe C:\Users\15167\PycharmProjects\pythonProject\Assignment3.py
+question q1
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9} {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+f_identity is_total, True, is_partial True, is_injective True, is_bijective True
+{0, 1, 2, 3, 4, 5, 6, 7, 8} {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+f_predecessor is_total, False, is_partial True, is_injective True, is_bijective False
+{1, 2, 3, 4, 5, 6, 7, 8, 9} {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+f_successor is_total, False, is_partial True, is_injective True, is_bijective False
+{0, 1, 4, 9} {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+f_square is_total, False, is_partial True, is_injective True, is_bijective False
+
+question q2
+Union  {'dddd', 'ab', 'bb', 'abc', 'ccc', 'abcd', 'a'}
+Intersection  {'dddd', 'bb', 'ccc', 'a'}
+Difference  None
+Symmetric Difference  None
+Cartesian Product {('abcd', 'ccc'), ('ab', 'ccc'), ('abcd', 'bb'), ('abc', 'bb'), ('ab', 'bb'), ('abc', 'dddd'), ('abcd', 'dddd'), ('abcd', 'a'), ('abc', 'a'), ('ab', 'dddd'), ('ab', 'a'), ('abc', 'ccc')}
+Power Set [(), ('ab',), ('abc',), ('abcd',), ('ab', 'abc'), ('ab', 'abcd'), ('abc', 'abcd'), ('ab', 'abc', 'abcd')]
+Power Set [(), ('dddd',), ('bb',), ('ccc',), ('a',), ('dddd', 'bb'), ('dddd', 'ccc'), ('dddd', 'a'), ('bb', 'ccc'), ('bb', 'a'), ('ccc', 'a'), ('dddd', 'bb', 'ccc'), ('dddd', 'bb', 'a'), ('dddd', 'ccc', 'a'), ('bb', 'ccc', 'a'), ('dddd', 'bb', 'ccc', 'a')]
+
+question q3
+Sum counting numbers:  55 55.0
+Sum sqaures:  385 385.0
+Sum cubes:  3025 3025.0
+Sum geometric:  362797055 362797055.0
+Sum arithmetic :  275 275.0
+
+question q4
+[[11 11 12 13  6]
+ [ 4 10  8 17 15]
+ [11 11 14  4 11]
+ [12  6 14 11 13]
+ [ 3 11 10  6 11]]
+
+[[11 11 12 13  6]
+ [ 4 10  8 17 15]
+ [11 11 14  4 11]
+ [12  6 14 11 13]
+ [ 3 11 10  6 11]]
+
+[[139 143 178 141 146]
+ [121 100 116  97  93]
+ [100 135 162 117 116]
+ [114 120 115  87  80]
+ [ 85 163 144 137 130]]
+
+[[139 143 178 141 146]
+ [121 100 116  97  93]
+ [100 135 162 117 116]
+ [114 120 115  87  80]
+ [ 85 163 144 137 130]]
+
+
+question q5
+Old number: 0.010011 0.296875
+Old number: 0.101010 0.65625
+Old number: 0.111000 0.875
+Old number: 0.000111 0.109375
+Old number: 0.111111 0.984375
+Old number: 0.111000 0.875
+New number: 0.110001 0.765625
+
+question q6
+we are skipping question 6
+
+
+Process finished with exit code 0

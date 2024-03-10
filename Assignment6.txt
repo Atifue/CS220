@@ -1,0 +1,19 @@
+C:\Users\15167\AppData\Local\Programs\Python\Python312\python.exe C:\Users\15167\PycharmProjects\pythonProject\Assignment6.py
+                              10        100        1000        10000
+native_search              0.000000  0.000000   2.992630   44.893503
+linear_search              0.997543  0.997543  22.937536  170.523882
+linear_search_sentinel     0.000000  1.993895  24.931908  212.406158
+binary_search_iterative    0.000000  3.988743   1.996279    5.982161
+binary_search_recursive    0.997543  0.000000   0.997066    8.042336
+binary_search_randomized   1.993418  0.000000   8.977175    8.976698
+binary_search_onesided     0.000000  1.994848   2.992392    2.994061
+binary_search_better       2.991438  0.000000   0.997066    2.989054
+ternary_search_iterative   0.000000  0.000000   1.994133    3.992081
+ternary_search_recursive   0.000000  1.993656   2.992153    4.991055
+ternary_search_randomized  4.987001  4.986763   5.983829   13.921499
+exponential_search         0.000000  1.994133   0.997305    6.981373
+jump_search                2.993822  4.986286   8.000612   31.919241
+fibonacci_search           0.997305  0.000000   1.993895    3.993511
+interpolation_search       0.000000  0.997543   0.997543    0.987768
+
+Process finished with exit code 0
